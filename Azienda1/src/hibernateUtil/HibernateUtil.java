@@ -2,7 +2,6 @@
 
 package hibernateUtil;
 
-import java.util.Properties;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
